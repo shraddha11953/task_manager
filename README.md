@@ -19,7 +19,17 @@ Users can **register, login, create tasks, toggle completion, and delete tasks**
 ---
 
 ## 📸 Screenshots
-*(Add your screenshots here to showcase the app)*
+🏠 **Login Page:**  
+![Login](screenshots/login.png)
+🏠 **Register:**  
+![Register](screenshots/register.png)
+🏠 **task:**  
+![task](screenshots/tasks.png)
+🏠 **tasklist:**  
+![tasklist](screenshots/tasklist.png)
+🏠 **toggle:**  
+![toggle](screenshots/toggle.png)
+
 
 ---
 
